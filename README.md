@@ -1,6 +1,6 @@
-# basic-stack-language
+# simple-stack-language
 
-## Basic Stack Language:
+## Simple Stack Language:
 
 - @             : terminate the program
 - +, -, *, /, % : operators, with top as rval, next to top as lval 
